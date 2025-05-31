@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fa2210458d5c284ba3abda734c16adb, type: 3}
+  m_Name: Katana_01
+  m_EditorClassIdentifier: 
+  itemName: Katana
+  itemIcon: {fileID: 0}
+  itemDescription: 
+  itemID: 1
+  weaponModel: {fileID: 1404439694937439551, guid: 5e4954f0706207b4c947397574853307, type: 3}
+  strengthREQ: 10
+  dexterityREQ: 10
+  physicalDamage: 12
+  magicDamage: 0
+  fireDamage: 0
+  lightningDamage: 0
+  holyDamage: 0
+  poiseDamage: 50
+  light_Attack_01_Modifier: 1.1
+  light_Attack_02_Modifier: 1.5
+  heavy_Attack_01_Modifier: 2
+  baseStaminaCost: 1
+  lightAttackStaminaCostMultiplier: 1.2
+  heavyAttackStaminaCostMultiplier: 1.5
+  physicalBaseDamageAbsorption: 100
+  magicBaseDamageAbsorption: 75
+  fireBaseDamageAbsorption: 85
+  holyBaseDamageAbsorption: 75
+  lightningBaseDamageAbsorption: 50
+  stability: 70
+  mouse_1_Action: {fileID: 11400000, guid: fb6876b91a8903f45bec1804c0860145, type: 2}
+  hold_Mouse_1_Action: {fileID: 11400000, guid: 90bd582d72e4adc47afeb01cd261e120, type: 2}
+  mouse_2_Action: {fileID: 11400000, guid: 31db0c8b55480a74584dc561cb9fb0ce, type: 2}
+  whooshesSFX:
+  - {fileID: 8300000, guid: 386a55b72e8483243a999dc3b226373e, type: 3}
+  - {fileID: 8300000, guid: 01bd6e06d32f2314a8db4663c73fc7d3, type: 3}
+  - {fileID: 8300000, guid: 98f06f1a9a8efad4eb987cf255ad8db0, type: 3}
+  blockingSFX:
+  - {fileID: 8300000, guid: ebf63c28ddaa52e44b7e72fb2822a26d, type: 3}
+  - {fileID: 8300000, guid: b316af7aa5c5c2c47a02e67734d1829f, type: 3}
+  - {fileID: 8300000, guid: b21b0f1c983e29140a7e8dde63d2cd2a, type: 3}
+  - {fileID: 8300000, guid: 4f8086f0e6c36224e867cb0bf3008fe6, type: 3}
+  - {fileID: 8300000, guid: 515c4578af1914548a5e8d8c53f8abbb, type: 3}
