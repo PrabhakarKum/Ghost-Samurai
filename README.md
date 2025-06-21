@@ -1,5 +1,7 @@
 # Ghost Samurai
 
+https://github.com/user-attachments/assets/be0bea37-96ea-4afc-b5e2-8d1d17134c88
+
 Ghost Samurai is a 3D third-person combat game prototype developed in Unity. Inspired by titles like Sekiro (but without the parry/block system... for now!), this project focuses on delivering satisfying melee combat with a minimalist approach. You play as a lone warrior navigating intense one-on-one battles against enemy AI.
 
 # 🔧 Features (so far):
